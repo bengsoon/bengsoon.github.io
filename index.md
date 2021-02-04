@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I am testing this for a potential start of blog.  [Check out how you can master Markdown](https://guides.github.com/features/mastering-markdown/). 
 
-![Image of fast.ai logo](images/logo.png)
+## First Paragraph
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Test test test test fox and cow jumping over the moon with the mouse in the house and i do not know how i got roused from my sleep in the deep end of the fan.
